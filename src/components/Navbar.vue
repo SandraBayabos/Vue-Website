@@ -2,7 +2,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Sandra Bayabos</a>
       <button
         class="navbar-toggler navbar-toggler-right"
         type="button"
